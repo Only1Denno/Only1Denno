@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer, Android enthusiast, nodejs geek with a strong focus on code efficiency and simplicity. Nodejs, JavaScript, Python, Angular professional.
+Software Engineer & Cloud Developer Specialized in Full Stack Development; ReactJS, NodeJS, Serverless Framework & AWS Cloud.
 
 
 # 💻 Tech Stack:
